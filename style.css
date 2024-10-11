@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(216, 144, 12);
+}
+.header {
+    
+ padding: 40px;
+ background-color: rgb(70, 41, 4);
+ text-transform: uppercase;
+ border: 8px solid rgb(15, 10, 0); 
+    }
